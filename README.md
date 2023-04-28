@@ -1,5 +1,5 @@
 # cs
 
-Seft-taught computer science.
+Self-taught computer science.
 
 Curriculum is from [ossu/computer-science](https://github.com/ossu/computer-science).
